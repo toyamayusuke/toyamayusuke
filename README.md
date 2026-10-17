@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there
 
 ### Speed ain't talent. It's the inevitable result of design and control. 
